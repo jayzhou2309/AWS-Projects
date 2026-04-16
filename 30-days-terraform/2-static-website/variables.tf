@@ -9,3 +9,7 @@ variable "profile" {
   type = string
   default = "default"
 }
+
+variable "bucket_name" {
+  default = "zhoujunbai_tf"
+}
