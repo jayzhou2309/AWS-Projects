@@ -2,4 +2,4 @@
 - Source Bucket
 - Processing Lambda
 - Monitoring CW
-- Destination Bucket
+- Destination Bucket    
